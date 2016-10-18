@@ -1,0 +1,230 @@
+RODCRS,Road crossing
+RDOSTA,Radio station
+$TEXTS,Text
+SPLARE,Sea-plane landing area
+M_HOPA,Horizontal datum shift parameters
+RETRFL,Retro-reflector
+TESARE,Territorial sea area
+LAKARE,Lake
+HRBFAC,Harbour facility
+MARCUL,Marine farm/culture
+CUSZNE,Custom zone
+TS_PNH,Tidal stream - non-harmonic prediction
+MAGVAR,Magnetic variation
+M_SDAT,Sounding datum
+C_AGGR,Aggregation
+TS_PAD,Tidal stream panel data
+OILBAR,Oil barrier
+CHNWIR,Chain/Wire
+RIVERS,River
+M_UNIT,Units of measurement of data
+DUNARE,Dune
+TOPMAR,Topmark
+BUISGL,"Building, single"
+CBLSUB,"Cable, submarine"
+RAILWY,Railway
+WNDMIL,Windmill
+SPOGRD,Spoil ground
+DISMAR,Distance mark
+PIPSOL,"Pipeline, submarine/on land"
+$CSYMB,Cartographic symbol
+TREPNT,Tree
+OFSPLF,Offshore platform
+BERTHS,Berth
+RMPARE,Ramp
+BCNSPP,"Beacon, special purpose/general"
+RIVBNK,River bank
+PYLONS,Pylon/bridge support
+LITMOI,"Light, moire effect"
+RADRFL,Radar reflector
+TWRTPT,Two-way route part
+ARCSLN,Archipelagic Sea Lane
+MSTCON,Mast
+TSEZNE,Traffic separation zone
+M_VDAT,Vertical datum of data
+FLODOC,Floating dock
+ACHBRT,Anchor berth
+$AREAS,Cartographic area
+T_TIMS,Tide - time series
+DOCARE,Dock area
+RSCSTA,Rescue station
+M_SREL,Survey reliability
+SLTPAN,Salt pan
+CANALS,Canal
+CTNARE,Caution area
+LOGPON,Log pond
+ACHARE,Anchorage area
+RADLNE,Radar line
+FNCLNE,Fence/wall
+AIRARE,Airport/airfield
+RESARE,Restricted area
+BRTFAC,Berthing facility
+SOUNDG,Sounding
+RADDOM,Radar dome
+VEGARE,Vegetation area
+CAUSWY,Causeway
+LITVES,Light vessel
+HULKES,Hulk
+SLOTOP,Slope topline
+BOYSAW,"Buoy, safe water"
+PINGOS,Pingo
+TS_PRH,Tidal stream - harmonic prediction
+CHKPNT,Checkpoint
+ICNARE,Incineration area
+BCNISD,"Beacon, isolated danger"
+LOKBSN,Lock basin
+PRDARE,Production/storage area
+ZEMCNT,Zero metre - contour
+FERYRT,Ferry route
+TS_FEB,Tidal stream - flood/ebb
+BOYSPP,"Buoy, special purpose/general"
+TUNNEL,Tunnel
+NEWOBJ,New object
+UNSARE,Unsurveyed area
+CTRPNT,Control point
+$SHABL,Shallow water blue
+LOCMAG,Local magnetic anomaly
+CHIMNY,Chimney
+ICEARE,Ice area
+TSELNE,Traffic separation line
+WEDKLP,Weed/Kelp
+M_PROD,Production information
+SWPARE,Swept Area
+M_NPUB,Nautical publication information
+CURENT,Current - non-gravitational
+OSPARE,Offshore production area
+FLASTK,Flare stack
+$COMPS,Compass
+SUBTLN,Submarine transit lane
+DRGARE,Dredged area
+RCTLPT,Recommended traffic lane part
+ISTZNE,Inshore traffic zone
+DRYDOC,Dry dock
+LITFLT,Light float
+CGUSTA,Coastguard station
+FOGSIG,Fog signal
+FSHHAV,Fish haven
+LNDARE,Land area
+BOYCAR,"Buoy, cardinal"
+CONZNE,Contiguous zone
+TSSRON,Traffic separation scheme roundabout
+ITDARE,Intertidal area
+RDOCAL,Radio calling-in point
+ASLXIS,Archipelagic Sea Lane axis
+TSSBND,Traffic separation scheme boundary
+HRBARE,Harbour area (administrative)
+BOYINB,"Buoy, installation"
+SMCFAC,Small craft facility
+RUNWAY,Runway
+SISTAW,"Signal station, warning"
+SLOGRD,Sloping ground
+CEMTRY,Cemetery
+BOYISD,"Buoy, isolated danger"
+T_NHMN,Tide - non-harmonic prediction
+DYKARE,Dyke area
+FSHZNE,Fishery zone
+EXEZNE,Exclusive economic zone
+DWRTPT,Deep water route part
+DWRTCL,Deep water route centerline
+RAPIDS,Rapids
+COALNE,Coastline
+CONVYR,Conveyor
+PILPNT,Pile
+FSHGRD,Fishing ground
+UWTROC,Underwater/awash rock
+M_SSOR,Survey source
+SQUARE,Square
+FLGSTF,Flagstaff/Flagpole
+SEAARE,Sea area/named water area
+VEGATN,Vegetation
+DAMCON,Dam
+GRIDRN,Gridiron
+WIMCON,Windmotor
+BCNSAW,"Beacon, safe water"
+CRANES,Crane
+RADRNG,Radar range
+T_HMON,Tide - harmonic prediction
+TOWERS,Tower
+BUIREL,"Building, religious"
+BCNLAT,"Beacon, lateral"
+PIPARE,Pipeline area
+SISTAT,"Signal station, traffic"
+PILBOP,Pilot boarding place
+DSHAER,Dish aerial
+SILTNK,Silo/tank
+LNDMRK,Landmark
+MORFAC,Mooring/Warping facility
+ROADWY,Road
+FORSTC,Fortified structure
+SLCONS,Shoreline construction
+TSSCRS,Traffic separation scheme crossing
+BCNCAR,"Beacon, cardinal"
+CAIRNS,Cairn
+MONUMT,Monument
+DAYMAR,Daymark
+ROADPT,Road part
+WATTUR,Water turbulence
+BOYLAT,"Buoy, lateral"
+LIGHTS,Light
+OBSTRN,Obstruction
+DYKCON,Dyke
+WATFAL,Waterfall
+CBLOHD,"Cable, overhead"
+WRECKS,Wreck
+MIPARE,Military practice area
+SNDWAV,Sand waves
+LNDRGN,Land region
+DEPARE,Depth area
+M_COVR,Coverage
+M_ACCY,Accuracy of data
+FSHFAC,Fishing facility
+DIFFUS,Diffuser
+$CLOLN,Closing line
+LAKSHR,Lake shore
+DEPCNT,Depth contour
+M_QUAL,Quality of data
+ACHPNT,Anchor
+M_HDAT,Horizontal datum of data
+RECTRC,Recommended track
+CBLARE,Cable area
+C_STAC,Stacked on/stacked under
+TSSLPT,Traffic separation scheme lane part
+PRDINS,Production installation
+GATCON,Gate
+DYKCRW,Dyke crown
+ADMARE,Administration Area (Named)
+PIPOHD,"Pipeline, overhead"
+BRIDGE,Bridge
+NATARE,National territorial area
+TELPHC,Telepheric
+SPRING,Spring
+TIDEWY,Tideway
+BUAARE,Built-up area
+PRCARE,Precautionary area
+CANBNK,Canal bank
+LNDSTS,Landing stairs
+SBDARE,Seabed area
+COSARE,Continental shelf area
+TS_TIS,Tidal stream - time series
+M_NSYS,Navigational system of marks
+RADSTA,Radar station
+$LINES,Cartographic line
+DMPGRD,Dumping ground
+TNKCON,Tank
+WIRLNE,Weir
+SILBUI,Silo
+LNDPLC,Landing place
+FAIRWY,Fairway
+RCRTCL,Recommended route centerline
+CTSARE,Cargo transhipment area
+HILARE,Hill
+FRPARE,Free port area
+M_CSCL,Compilation scale of data
+PONTON,Pontoon
+NAVLNE,Navigation line
+TNLENT,Tunnel entrance
+STSLNE,Straight territorial sea baseline
+RTPBCN,Radar transponder beacon
+SLIPWY,Slipway
+LNDELV,Land elevation
+C_ASSO,Association
